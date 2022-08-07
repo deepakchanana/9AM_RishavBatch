@@ -14,6 +14,7 @@ public class Class2
 {
  public static void main(String[] args)
  {
+   System.out.println("I am sharing the latest code");	 
    TreeMap<Integer, String> hm=new TreeMap<Integer,String>();
    hm.put(12, "Deepak");
    hm.put(11, "Chanana");
